@@ -1,0 +1,82 @@
+*{
+    /* background-image: url(bg.jpg); */
+  }
+  #nav ul li{
+      
+    margin-left: -10px;
+      
+  }
+  li {
+      
+     
+    }
+
+  a {
+      
+      
+    }
+  .start{
+
+  }
+  .start h1{
+font-size: 2rem;
+      
+  }
+  #name{
+    margin-left: 5px;
+  }
+  #saree{
+ 
+  }
+  #saree h2{
+    margin-left: 20px;
+    
+  }
+  #saree .box{
+    background-size: 6000px;
+  }
+  
+  #saree .box img{
+    
+
+  }
+  #sareedouble{
+
+  }
+  #sareedouble .box{
+    padding-top: 20px;
+    padding-right: 1px;
+    padding-left: 1px;
+    background-size: 3000px;
+  }
+  
+  #sareedouble .box img{
+    margin-left: 110px;
+    
+     /* justify-items: center; */
+
+  }
+  #sareedouble h2{
+    margin-left: 20px;
+    
+  }
+  #dress{
+
+  }
+  #dress .box{
+    background-size: 3000px;
+  }
+  
+ 
+  #dress h2{
+  
+    margin-left: 20px;s
+    
+  }
+  #dress .box img{
+    margin-left:0px;
+  }
+  .jila p{
+    word-wrap: initial;
+    overflow: scroll;
+  }
